@@ -1,7 +1,7 @@
 import tesch.guilherme.modelos.Produto;
 
 public class MainProduto {
-    public static void main(String args[]){
+    public static void main(String[] args){
         Produto produto = new Produto();
         produto.setNome("Notebook");
         produto.setPreco(3500);
