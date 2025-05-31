@@ -1,4 +1,4 @@
-import tesch.guilherme.modelos.IdadePessoa;
+import com.guilherme.tesch.modelos.IdadePessoa;
 
 public class MainIdadePessoa {
     public static void main(String args[]){

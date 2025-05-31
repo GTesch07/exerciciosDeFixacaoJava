@@ -1,4 +1,4 @@
-import tesch.guilherme.modelos.Aluno;
+import com.guilherme.tesch.modelos.Aluno;
 
 public class MainAluno {
     public static void main(String[] args) {

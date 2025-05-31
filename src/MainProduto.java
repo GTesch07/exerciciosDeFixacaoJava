@@ -1,4 +1,4 @@
-import tesch.guilherme.modelos.Produto;
+import com.guilherme.tesch.modelos.Produto;
 
 public class MainProduto {
     public static void main(String[] args){

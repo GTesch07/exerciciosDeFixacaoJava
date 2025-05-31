@@ -1,4 +1,4 @@
-package tesch.guilherme.modelos;
+package com.guilherme.tesch.modelos;
 
 public class Produto {
 
